@@ -1,0 +1,19 @@
+[INFO] Session initialized
+[INFO] Search submitted successfully - 17667 results, 1767 pages
+[INFO] Total results: 17667 - total pages: 1767 - processing pages 1..1
+[INFO] Page 1 parsed - 10 documents (10 new)
+[INFO] Downloading document 1/10 (007125-2023)
+[INFO] PDF downloaded
+[INFO] Downloading document 2/10 (023951-2023)
+[INFO] PDF downloaded
+[INFO] Downloading document 3/10 (002127-2023)
+[INFO] PDF downloaded
+[INFO] Configured document limit reached (3)
+[INFO] Scraping completed
+[INFO] Pages processed: 1
+[INFO] Documents found: 10
+[INFO] Unique documents: 10
+[INFO] PDFs downloaded: 3
+[INFO] PDFs skipped: 0
+[INFO] Failed downloads: 0
+[INFO] Duration: 8.7s

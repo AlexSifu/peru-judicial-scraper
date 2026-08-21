@@ -1,0 +1,17 @@
+
+> scraper-challenge@1.0.0 test
+> vitest run
+
+
+ RUN  v2.1.9 D:/Prueba_Web/scraper-challenge
+
+ ✓ tests/normalize.test.ts (4 tests) 4ms
+ ✓ tests/filename.test.ts (6 tests) 5ms
+ ✓ tests/retry.test.ts (13 tests) 73ms
+ ✓ tests/parser.test.ts (5 tests) 54ms
+
+ Test Files  4 passed (4)
+      Tests  28 passed (28)
+   Start at  19:55:49
+   Duration  1.04s (transform 322ms, setup 0ms, collect 962ms, tests 136ms, environment 1ms, prepare 743ms)
+

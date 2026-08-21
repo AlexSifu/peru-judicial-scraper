@@ -1,0 +1,17 @@
+[INFO] Session initialized
+[WARN] Search request failed - retry 1 in 1797ms
+[INFO] Session initialized
+[WARN] Search request failed - retry 2 in 2661ms
+[INFO] Session initialized
+[INFO] Search submitted successfully - 17667 results, 1767 pages
+[INFO] Total results: 17667 - total pages: 1767 - processing pages 1..2
+[INFO] Page 1 parsed - 10 documents (0 new)
+[INFO] Page 2 parsed - 10 documents (10 new)
+[INFO] Scraping completed
+[INFO] Pages processed: 2
+[INFO] Documents found: 20
+[INFO] Unique documents: 20
+[INFO] PDFs downloaded: 0
+[INFO] PDFs skipped: 0
+[INFO] Failed downloads: 0
+[INFO] Duration: 17.2s

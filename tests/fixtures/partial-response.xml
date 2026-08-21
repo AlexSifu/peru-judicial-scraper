@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<partial-response><changes><update id="formBuscador:panel"><![CDATA[<div id="formBuscador:panel"><div class="rf-p " id="formBuscador:repeat:10:j_idt455" style="width:100%; text-align:left;"><div class="rf-p-hdr " id="formBuscador:repeat:10:j_idt455_header"><table style="text-align:left;">
+<tbody>
+<tr>
+<td><input id="formBuscador:repeat:10:j_idt457" type="checkbox" name="formBuscador:repeat:10:j_idt457" title="Seleccione para descargar resolución" onclick="RichFaces.ajax(this,event,{&quot;parameters&quot;:{&quot;javax.faces.behavior.event&quot;:&quot;click&quot;,&quot;org.richfaces.ajax.component&quot;:&quot;formBuscador:repeat:10:j_idt457&quot;} ,&quot;sourceId&quot;:this} )" /></td>
+<td><span style="font-weight:bold">  Casación   </span></td>
+<td><span style="font-weight:bold">001215-2022</span></td>
+</tr>
+</tbody>
+</table>
+</div><div class="rf-p-b " id="formBuscador:repeat:10:j_idt455_body">
+						                        
+							            <br />
+	
+						                 <div class="row">
+				                                <div class="col-sm-4 marginb">
+				                                    <div class="col-md-12 txtbold">Pretensión/Delito:</div>
+				                                    <div class="col-md-12">Colusión Art. 384</div>
+				                                </div> 
+            								
+			                                <div class="col-sm-4 marginb">
+			                                    <div class="col-md-12 txtbold">Tipo Resolución:</div>
+			                                    <div class="col-md-12">Ejecutoria Suprema</div>
+			                                </div>
+			                                <div class="col-sm-4 marginb">
+			                                    <div class="col-md-12 txtbold">Fecha Resolución:</div>
+			                                    <div class="col-md-12">27/12/2024</div>
+			                                </div>
+			                            </div>
+						                <div class="row"> 
+				                                <div class="col-sm-4 marginb">
+				                                    <div class="col-md-12 txtbold">Sala Suprema:</div>
+				                                    <div class="col-md-12">Sala Penal Permanente</div>
+				                                </div>
+	                							<div class="col-sm-8 marginb">
+				                                    <div class="col-md-12 txtbold">Norma de Derecho Interno:</div>
+				                                    <div class="col-md-12">Código Penal : 384</div>
+				                                </div>			                                
+			                            </div>    
+						               
+						                <div class="row">
+			                                <div class="col-sm-12 marginb">
+			                                    <div class="col-md-12 txtbold">Sumilla:</div>
+			                                    <div class="col-md-12"> El artículo 408, apartado 1, del CPP establece la regla general en materia deimpugnaciones respecto de los efectos extensivos del recurso penal –todo recurso, incluido por cierto el de casación– cuando existen coimputados en el procedimiento penal. Ello significaque, según el motivo aceptado por la sentencia –de vista o casatoria–, es posible extender los efectos favorables de la decisión acordada cuando existe pluralidad de sujetos pasivos y cuandoalguno de ellos no hubiera recurrido o si su recurso se declaró inadmisible, para lo cual el motivo, primero, debe ser el mismo –la misma razón fáctica y jurídica–; segundo, no sea exclusivamente personal del recurrente –no se refiera a un punto solo atendible para el impugnante, esto es, debe ser objetivo y general, sin que se requiera un análisis individualizadode la situación jurídica del encausado no recurrente–; y, tercero, siempre que el recurso el resultado del recurso sea favorable</div>
+			                                </div>
+			                            </div>    
+						                    
+						                <div class="row">
+			                                <div class="col-sm-12 marginb">
+			                                    <div class="col-md-12 txtbold">Palabras Clave:</div>
+			                                    <div class="col-md-12">Reparacion civil,efecto extensivo,Colusión</div>
+			                                </div>
+			                            </div>    					                    
+						                  
+						                <table>
+						                <tr>
+						                <td>
+
+						                
+						                  	 
+						                 	
+						                		<a href="#" id="formBuscador:repeat:10:j_idt491" name="formBuscador:repeat:10:j_idt491" onclick="jsf.util.chain(this,event,&quot;RichFaces.$('panelState').show();&quot;,&quot;RichFaces.ajax(\&quot;formBuscador:repeat:10:j_idt491\&quot;,event,{\&quot;parameters\&quot;:{\&quot;uuid\&quot;:\&quot;d88d0c10\\u002De569\\u002D4bfb\\u002D80fe\\u002D2024c0fa326d\&quot;,\&quot;recurso\&quot;:\&quot;Casación\&quot;,\&quot;nroexp\&quot;:\&quot;001215\\u002D2022\&quot;,\&quot;palabras\&quot;:\&quot;Reparacion civil,efecto extensivo,Colusión\&quot;,\&quot;pretensiones\&quot;:\&quot;Colusión Art. 384\&quot;,\&quot;normaDI\&quot;:\&quot;Código Penal : 384\&quot;,\&quot;tipoResolucion\&quot;:\&quot;Ejecutoria Suprema\&quot;,\&quot;fechaResolucion\&quot;:\&quot;27\\\/12\\\/2024\&quot;,\&quot;sala\&quot;:\&quot;Sala Penal Permanente\&quot;,\&quot;sumilla\&quot;:\&quot; El artículo 408, apartado 1, del CPP establece la regla general en materia deimpugnaciones respecto de los efectos extensivos del recurso penal \\u2013todo recurso, incluido por cierto el de casación\\u2013 cuando existen coimputados en el procedimiento penal. Ello significaque, según el motivo aceptado por la sentencia \\u2013de vista o casatoria\\u2013, es posible extender los efectos favorables de la decisión acordada cuando existe pluralidad de sujetos pasivos y cuandoalguno de ellos no hubiera recurrido o si su recurso se declaró inadmisible, para lo cual el motivo, primero, debe ser el mismo \\u2013la misma razón fáctica y jurídica\\u2013; segundo, no sea exclusivamente personal del recurrente \\u2013no se refiera a un punto solo atendible para el impugnante, esto es, debe ser objetivo y general, sin que se requiera un análisis individualizadode la situación jurídica del encausado no recurrente\\u2013; y, tercero, siempre que el recurso el resultado del recurso sea favorable\&quot;} ,\&quot;incId\&quot;:\&quot;1\&quot;} )&quot;);return false;" title="Ver"><img src="../imagen/btn-ver-ficha.png" alt="" style="border:0" /></a>
+						                </td>
+						                <td>  </td>
+						                <td>						                						                 
+						                  
+						                   <a href="/jurisprudenciaweb/ServletDescarga?uuid=d88d0c10-e569-4bfb-80fe-2024c0fa326d">
+						                   		<img src="/jurisprudenciaweb/imagen/btn-ver-resolucion.png" class="social" />
+						                   </a> 
+						                   					                    
+						                </td>						          					                
+					              						                
+						                </tr>						                						             
+						                </table>  
+					                  	<div>			                             
+			                                   	  	                       			                              
+			                            </div></div></div> <div class="rf-p " id="formBuscador:repeat:11:j_idt455" style="width:100%; text-align:left;"><div class="rf-p-hdr " id="formBuscador:repeat:11:j_idt455_header"><table style="text-align:left;">
+<tbody>
+<tr>
+<td><input id="formBuscador:repeat:11:j_idt457" type="checkbox" name="formBuscador:repeat:11:j_idt457" title="Seleccione para descargar resolución" onclick="RichFaces.ajax(this,event,{&quot;parameters&quot;:{&quot;javax.faces.behavior.event&quot;:&quot;click&quot;,&quot;org.richfaces.ajax.component&quot;:&quot;formBuscador:repeat:11:j_idt457&quot;} ,&quot;sourceId&quot;:this} )" /></td>
+<td><span style="font-weight:bold">  Casación   </span></td>
+<td><span style="font-weight:bold">018353-2021</span></td>
+</tr>
+</tbody>
+</table>
+</div><div class="rf-p-b " id="formBuscador:repeat:11:j_idt455_body">
+						                        
+							            <br />
+	
+						                 <div class="row">
+				                                <div class="col-sm-4 marginb">
+				                                    <div class="col-md-12 txtbold">Pretensión/Delito:</div>
+				                                    <div class="col-md-12">Pago de Intereses Legales,A ingresar,Nulidad de Resolución Administrativa</div>
+				                                </div> 
+            								
+			                                <div class="col-sm-4 marginb">
+			                                    <div class="col-md-12 txtbold">Tipo Resolución:</div>
+			                                    <div class="col-md-12">Ejecutoria Suprema</div>
+			                                </div>
+			                                <div class="col-sm-4 marginb">
+			                                    <div class="col-md-12 txtbold">Fecha Resolución:</div>
+			                                    <div class="col-md-12">27/12/2024</div>
+			                                </div>
+			                            </div>
+						                <div class="row"> 
+				                                <div class="col-sm-4 marginb">
+				                                    <div class="col-md-12 txtbold">Sala Suprema:</div>
+				                                    <div class="col-md-12">Tercera Sala de Derecho Constitucional Social Transitoria</div>
+				                                </div>
+	                							<div class="col-sm-8 marginb">
+				                                    <div class="col-md-12 txtbold">Norma de Derecho Interno:</div>
+				                                    <div class="col-md-12"></div>
+				                                </div>			                                
+			                            </div>    
+						               
+						                <div class="row">
+			                                <div class="col-sm-12 marginb">
+			                                    <div class="col-md-12 txtbold">Sumilla:</div>
+			                                    <div class="col-md-12">Reajuste de la Bonificación Transitoria para Homologación - Decreto Supremo N.° 154-91-EFSumilla: No corresponde otorgar el incremento dispuesto en el artículo 3 del Decreto Supremo N.° 154-91-EF, si el monto que inicialmente percibía la demandante como remuneración transitoria para homologación, pasó a formar parte de su remuneración reunificada, en cumplimiento del artículo 7 del Decreto Supremo N.° 051-91-PCM.</div>
+			                                </div>
+			                            </div>    
+						                    
+						                <div class="row">
+			                                <div class="col-sm-12 marginb">
+			                                    <div class="col-md-12 txtbold">Palabras Clave:</div>
+			                                    <div class="col-md-12">Artículo 3 Decreto Supremo 154-91-EF,			Nulidad De Resolución Administrativa,Bonificación Transitoria para Homologación</div>
+			                                </div>
+			                            </div>    					                    
+						                  
+						                <table>
+						                <tr>
+						                <td>
+
+						                
+						                  	 
+						                 	
+						                		<a href="#" id="formBuscador:repeat:11:j_idt491" name="formBuscador:repeat:11:j_idt491" onclick="jsf.util.chain(this,event,&quot;RichFaces.$('panelState').show();&quot;,&quot;RichFaces.ajax(\&quot;formBuscador:repeat:11:j_idt491\&quot;,event,{\&quot;parameters\&quot;:{\&quot;uuid\&quot;:\&quot;a767107a\\u002D2c25\\u002D4915\\u002D90d4\\u002D4689fadec95a\&quot;,\&quot;recurso\&quot;:\&quot;Casación\&quot;,\&quot;nroexp\&quot;:\&quot;018353\\u002D2021\&quot;,\&quot;palabras\&quot;:\&quot;Artículo 3 Decreto Supremo 154\\u002D91\\u002DEF,\\t\\t\\tNulidad De Resolución Administrativa,Bonificación Transitoria para Homologación\&quot;,\&quot;pretensiones\&quot;:\&quot;Pago de Intereses Legales,A ingresar,Nulidad de Resolución Administrativa\&quot;,\&quot;normaDI\&quot;:\&quot;\&quot;,\&quot;tipoResolucion\&quot;:\&quot;Ejecutoria Suprema\&quot;,\&quot;fechaResolucion\&quot;:\&quot;27\\\/12\\\/2024\&quot;,\&quot;sala\&quot;:\&quot;Tercera Sala de Derecho Constitucional Social Transitoria\&quot;,\&quot;sumilla\&quot;:\&quot;Reajuste de la Bonificación Transitoria para Homologación \\u002D Decreto Supremo N.° 154\\u002D91\\u002DEFSumilla: No corresponde otorgar el incremento dispuesto en el artículo 3 del Decreto Supremo N.° 154\\u002D91\\u002DEF, si el monto que inicialmente percibía la demandante como remuneración transitoria para homologación, pasó a formar parte de su remuneración reunificada, en cumplimiento del artículo 7 del Decreto Supremo N.° 051\\u002D91\\u002DPCM.\&quot;} ,\&quot;incId\&quot;:\&quot;1\&quot;} )&quot;);return false;" title="Ver"><img src="../imagen/btn-ver-ficha.png" alt="" style="border:0" /></a>
+						                </td>
+						                <td>  </td>
+						                <td>						                						                 
+						                  
+						                   <a href="/jurisprudenciaweb/ServletDescarga?uuid=a767107a-2c25-4915-90d4-4689fadec95a">
+						                   		<img src="/jurisprudenciaweb/imagen/btn-ver-resolucion.png" class="social" />
+						                   </a> 
+						                   					                    
+						                </td>						          					                
+					              						                
+						                </tr>						                						             
+						                </table>  
+					                  	<div>			                             
+			                                   	  	                       			                              
+			                            </div></div></div> </div>]]></update><update id="javax.faces.ViewState"><![CDATA[3333333333333333333:4444444444444444444]]></update></changes></partial-response>

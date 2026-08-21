@@ -1,0 +1,213 @@
+# ============================================================
+# Dependencies
+# ============================================================
+node_modules/
+
+# ============================================================
+# Build / TypeScript
+# ============================================================
+dist/
+build/
+out/
+*.tsbuildinfo
+
+# ============================================================
+# Environment variables / local configuration
+# ============================================================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.*.local
+
+# Keep the environment template
+!.env.example
+
+# ============================================================
+# Secrets / credentials / certificates
+# ============================================================
+*.pem
+*.key
+*.crt
+*.cer
+*.p12
+*.pfx
+*.jks
+
+credentials.json
+secrets.json
+cookies.json
+session.json
+
+# ============================================================
+# Logs
+# ============================================================
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ============================================================
+# Temporary files
+# ============================================================
+*.tmp
+*.temp
+*.part
+*.download
+*.bak
+*.swp
+*.swo
+*~
+tmp/
+temp/
+.cache/
+.cache-loader/
+
+# ============================================================
+# Test coverage / reports
+# ============================================================
+coverage/
+.nyc_output/
+test-results/
+junit.xml
+coverage-final.json
+
+# ============================================================
+# Scraper runtime output
+# ============================================================
+
+# Downloaded PDFs
+data/pdfs/*
+!data/pdfs/.gitkeep
+
+# Runtime extracted data
+data/documents.json
+data/documents.csv
+
+# Failed downloads
+data/failed-downloads.json
+
+# Resume/checkpoint information
+data/checkpoint.json
+data/*checkpoint*.json
+
+# Temporary runtime state
+data/*.tmp
+data/*.part
+data/runtime/
+data/cache/
+
+# IMPORTANT:
+# Keep the small samples intended for repository review.
+!data/examples/
+!data/examples/**
+
+# ============================================================
+# HTTP / scraping investigation artifacts
+# ============================================================
+_recon/
+recon/
+debug/
+_debug/
+scratch/
+sandbox/
+
+# Raw responses used only during investigation
+*.response.html
+*.response.xml
+*.response.json
+response.html
+response.xml
+
+# Network/debug captures
+*.har
+*.pcap
+*.pcapng
+
+# ============================================================
+# Session / JSF temporary information
+# ============================================================
+session-*.json
+cookies-*.json
+viewstate-*.txt
+headers-*.txt
+
+# ============================================================
+# Editors / IDE
+# ============================================================
+.idea/
+*.iml
+
+.vscode/
+!.vscode/extensions.json
+
+.history/
+
+# ============================================================
+# Operating system files
+# ============================================================
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Linux
+.directory
+
+# ============================================================
+# Package manager caches
+# ============================================================
+.npm/
+.yarn/
+.pnpm-store/
+
+# Do NOT ignore package-lock.json.
+# It should be committed for reproducible npm ci installations.
+
+# ============================================================
+# Archives / local backups
+# ============================================================
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+*.tgz
+
+backup/
+backups/
+
+# ============================================================
+# Local notes / non-deliverable development artifacts
+# ============================================================
+notes/
+_notes/
+drafts/
+local-notes/
+work/
+working/
+
+# ============================================================
+# Repository files that MUST remain versioned
+# ============================================================
+
+!.gitignore
+!.env.example
+!README.md
+!package.json
+!package-lock.json
+!tsconfig.json
